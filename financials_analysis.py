@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Path to the dataset
-file_path = '/Volumes/MichaelEric/Data Analitics/Portfolio/Working/1. Financials Analysis/Financials.csv'
+file_path = '/.../Financials.csv'
 
 # Loading the dataset
 data = pd.read_csv(file_path)
