@@ -61,7 +61,7 @@ for column in columns_to_clean:
 # Displaying the first few rows after cleaning
 data.head()
 
-Results in error occurred because some of the values are already float, and we are attempting to use the replace method on them.
+Results in error, occurred because some of the values are already float, and we are attempting to use the replace method on them.
 
 '''
 
